@@ -1,0 +1,4 @@
+node_modules/
+.env
+npm-debug.log*
+/tp-05-salas-middleware-main/
